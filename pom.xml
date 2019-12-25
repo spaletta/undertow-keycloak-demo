@@ -10,7 +10,7 @@
 
     <properties>
         <entrypoint>io.nein.demo.Starter</entrypoint>
-        <version.undertow>2.0.0.Alpha1</version.undertow>
+        <version.undertow>2.0.23.Final</version.undertow>
         <version.keycloak>2.5.4.Final</version.keycloak>
         <version.logback>1.2.1</version.logback>
         <version.slf4j>1.7.22</version.slf4j>
